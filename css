@@ -8,4 +8,6 @@ margin: 0 0 25px 0;
 text-transform: none;
 
 css orden
-   prioridad en linea
+ 1.  prioridad en linea
+ 2.  prioridad interna
+ 3.  prioridad externo
