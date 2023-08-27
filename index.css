@@ -1,0 +1,14 @@
+p{
+   font-style: initial;
+   font-family:'Times New Roman', Times, serif;
+   font-stretch: expanded;
+   color: brown;
+   font-size: xx-large;
+}
+.foto{
+    border-radius: 300px;
+    border: solid 1px;
+    border-color: blue;
+    padding: 10px;
+    background-color: yellowgreen;
+}
