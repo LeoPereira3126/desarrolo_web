@@ -6,9 +6,13 @@ p{
    font-size: xx-large;
 }
 .foto{
-    border-radius: 300px;
-    border: solid 1px;
-    border-color: blue;
-    padding: 10px;
-    background-color: yellowgreen;
+    border: 1px solid#000000;
+    border-radius: 10px;
+    padding: 5px;
+    float: right;
+    margin-left: 0;
+    margin-top: -500px;   
+}
+body{
+    background-image: url(./JPG/4699520_2440239.jpg);
 }
