@@ -1,0 +1,26 @@
+ .datos {
+      text-align: center;
+      font-family: 'Times New Roman', Times, serif;
+      font-variant: normal;
+      font-size:larger;
+      border: 1px solid black;
+      padding: 10px;
+      width: 800px;
+      height: 550px;
+      background-color: #3577ce;
+      box-shadow: 10px 10px;
+    }
+  </style>
+  
+  </body>
+  </html>
+</head>
+<body>
+  <div class="datos">
+    <ul>
+      <li>nombre completo: Leonel Gabriel Pereira</li>
+      <li>Fecha de nacimiento: 11/01/1997</li>
+      <li> DNI: 40.232.986</li>
+    <li>Tel. Cel: 1156221466</li>
+    <li>dirección: José Maria Penna 325</li>
+    <li>Localidad: Lomas de zamora</li>
